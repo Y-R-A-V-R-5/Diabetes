@@ -83,6 +83,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 - **Author:** Adithya Vardhan Reddy
-- **Email:** adithyavardhanreddy2003@gmail.com
+- **Email:** [Your Gmail Profile](adithyavardhanreddy2003@gmail.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yravr)
 - **GitHub:** [Your GitHub Profile]((https://github.com/Y-R-A-V-R-5))
